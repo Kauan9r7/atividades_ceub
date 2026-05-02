@@ -1,3 +1,10 @@
-# Repositorio para as atividades da matéria introdução a Ciência de dados 
+# Projetos de Introducao a Ciencia de Dados
 
-Repo destinado a avaliação para o grande professor Pedro Henrique. 
+Este repositorio reune atividades praticas desenvolvidas na disciplina de Introducao a Ciencia de Dados, com foco no uso de Python e da biblioteca `pandas` para exploracao, limpeza e transformacao de dados.
+
+O material esta organizado por atividade. Cada pasta contem um notebook com a resolucao dos exercicios e um `README` proprio com a descricao do que foi realizado.
+
+## Estrutura do repositorio
+
+- `pandas_intro/`: atividade introdutoria de analise exploratoria de dados com os comandos basicos do `pandas`.
+- `aula_pandas2/`: atividade voltada para filtragem, tratamento, padronizacao e agregacao de dados.
